@@ -21,4 +21,4 @@ WHERE
     AND job_location = 'Anywhere'
 ORDER BY 
     salary_year_avg DESC   
-LIMIT 100;
+LIMIT 10;
